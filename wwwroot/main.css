@@ -1,0 +1,63 @@
+﻿body {
+    background-color: #000;
+    color: #fff;
+}
+
+/* cabecalho */
+
+.cabecalho{
+    background-color: rgb(37, 88, 126);
+    color: white;
+}
+
+.cabecalho a {
+    text-decoration: none;
+    color: white;
+}
+
+.cabecalho a:hover {
+    text-decoration: none;
+    color: rgb(200, 200, 200);
+}
+
+/* Navegação */
+.navegacao{
+    background-color: rgb(20, 58, 86);
+}
+
+.navegacao a {
+    padding: 0px 20px;
+    text-decoration: none;
+    color: rgb(200, 200, 200);
+}
+
+.navegacao a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+/* Conteudo */
+.conteudo {
+    background-color: white;
+    color: black;
+}
+
+/* rodapé */
+
+.rodape {
+    background-color: rgb(20, 58, 86);
+    color: rgb(93, 126, 151);
+}
+
+.sociais a {
+    font-size: 1.5em;
+    padding: 0px 20px;
+    text-decoration: none;
+    color: rgb(200, 200, 200);
+}
+
+.sociais a:hover{
+    text-decoration: none;
+    color: white;
+}
+
